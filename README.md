@@ -1,5 +1,5 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚂𝚑𝚎𝚛𝚒𝚕𝚢𝚗 𝙶𝚘𝚗𝚣𝚊𝚕𝚎𝚜</h1>
-<h3 align="center">𝐵𝑟𝑒𝑎𝑘𝑖𝑛𝑔 𝑡ℎ𝑒 𝑟𝑢𝑙𝑒𝑠 𝑎𝑛𝑑 𝑚𝑎𝑘𝑖𝑛𝑔 𝑚𝑒𝑚𝑜𝑟𝑖𝑒𝑠 🚀</h3>
+<h3 align="center">ᴏɴ ᴀ ᴊᴏᴜʀɴᴇʏ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ᴇxᴛʀᴀᴏʀᴅɪɴᴀʀʏ ✈️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherilyngonzales&label=Profile%20views&color=0e75b6&style=flat" alt="sherilyngonzales" /> </p>
 
@@ -11,7 +11,7 @@
   
 - 🏫 I’m currently studying at **Batangas State University TNEU - Alangilan Campus**
 
-- 📫 How to reach me **20-05271@g.batstate-u.edu.ph**
+- 📫 How to reach me: **20-05271@g.batstate-u.edu.ph**
 
 
 
